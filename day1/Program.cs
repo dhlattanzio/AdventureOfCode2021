@@ -8,6 +8,7 @@ namespace day1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-- Day 1 --");
             string input = File.ReadAllText("input/input.txt");
 
             int[] deep = input.Split("\n").Select(int.Parse).ToArray();
