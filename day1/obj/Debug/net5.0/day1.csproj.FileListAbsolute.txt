@@ -1,0 +1,15 @@
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/day1.deps.json
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/day1.runtimeconfig.json
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/day1.runtimeconfig.dev.json
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/day1.dll
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/ref/day1.dll
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/bin/Debug/net5.0/day1.pdb
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.csproj.AssemblyReference.cache
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.AssemblyInfoInputs.cache
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.AssemblyInfo.cs
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.csproj.CoreCompileInputs.cache
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.dll
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/ref/day1.dll
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.pdb
+/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/Debug/net5.0/day1.genruntimeconfig.cache
