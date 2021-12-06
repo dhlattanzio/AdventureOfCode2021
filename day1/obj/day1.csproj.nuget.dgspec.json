@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/day1.csproj": {}
+    "D:\\AdventureOfCode2021\\adventureofcode2021\\day1\\day1.csproj": {}
   },
   "projects": {
-    "/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/day1.csproj": {
+    "D:\\AdventureOfCode2021\\adventureofcode2021\\day1\\day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/day1.csproj",
+        "projectUniqueName": "D:\\AdventureOfCode2021\\adventureofcode2021\\day1\\day1.csproj",
         "projectName": "day1",
-        "projectPath": "/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/day1.csproj",
-        "packagesPath": "/Users/diegolattanzio/.nuget/packages/",
-        "outputPath": "/Users/diegolattanzio/Documents/AdventureOfCode/2021/day1/obj/",
+        "projectPath": "D:\\AdventureOfCode2021\\adventureofcode2021\\day1\\day1.csproj",
+        "packagesPath": "C:\\Users\\LDiego\\.nuget\\packages\\",
+        "outputPath": "D:\\AdventureOfCode2021\\adventureofcode2021\\day1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/diegolattanzio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\LDiego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
