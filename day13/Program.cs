@@ -93,8 +93,6 @@ namespace day13
                         newPaper[y, x] = paper[y, x] || (paper.GetLength(0) > index && paper[index, x]);
                     }
                 }
-
-                return newPaper;
             }
             else
             {
